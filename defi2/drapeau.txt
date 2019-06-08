@@ -1,0 +1,5 @@
+Suite du challenge Richelieu :
+
+ssh defi3.challengecybersec.fr -l defi3 -p 2222
+
+mot de passe : DGSE{?uo20tPO4(o=A=dX3njr2y{emZQodR}

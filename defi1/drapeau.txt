@@ -1,0 +1,5 @@
+Suite du challenge Richelieu :
+
+ssh defi2.challengecybersec.fr -l defi2 -p 2222
+
+mot de passe : DGSE{H#M?W)el{0YZ-)77/C#ogrp}k4&EbP}
