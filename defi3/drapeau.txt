@@ -1,0 +1,10 @@
+Félicitations à vous, vous avez réussi l'intégralité du challenge Richelieu organisé par la DGSE !
+Vous avez la perspicacité et le profil pour relever les défis technologiques au sein de nos équipes.
+
+Dès maintenant, vous pouvez envoyer le tag ############################## accompagné, si vous le souhaitez, d'un CV et d'une lettre de motivation à l'adresse suivante : ###########################################.
+
+Pour vous renseigner sur les métiers que nous recherchons : https://www.defense.gouv.fr/dgse/tout-le-site/nos-besoins-en-recrutement.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+J'ai supprimé l'email et le tag du flag(remplacé par des '#'), car même si j'offre mes solutions aux problèmes, je n'offre pas la récompenses pour les avoirs résoluts
+Je vous laisse néanmoins pouvoir lire ce que contenais le flag :)
