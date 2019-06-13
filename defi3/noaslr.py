@@ -1,7 +1,13 @@
 #!/bin/python2
 import binascii
+
 def bhex(digit):
-    return binascii.unhexlify(str(hex(digit)[2:]))
+    digit = hex(digit)[2:]
+    if(len(digit) & 1): #bitwise is odd
+        digit = "0"+digit
+        print digit
+    return binascii.unhexlify(digit)
+
 id = 1
 name = 2
 payload = ""
