@@ -1,4 +1,4 @@
-#!python
+#!/usr/bin/env python3
 from sympy.ntheory import isprime
 from egcd import egcd #modinv
 

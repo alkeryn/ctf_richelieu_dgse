@@ -6,5 +6,5 @@ Dès maintenant, vous pouvez envoyer le tag ############################## accom
 Pour vous renseigner sur les métiers que nous recherchons : https://www.defense.gouv.fr/dgse/tout-le-site/nos-besoins-en-recrutement.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-J'ai supprimé l'email et le tag du flag(remplacé par des '#'), car même si j'offre mes solutions aux problèmes, je n'offre pas la récompenses pour les avoirs résoluts
+J'ai supprimé l'email et le tag du flag(remplacé par des '#'), car même si j'offre mes solutions aux problèmes, je n'offre pas la récompenses pour les avoirs résolus
 Je vous laisse néanmoins pouvoir lire ce que contenais le flag :)

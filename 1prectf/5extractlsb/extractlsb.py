@@ -1,4 +1,4 @@
-#!python2
+#!/usr/bin/env python2
 #coding: utf-8
 import base64
 from PIL import Image

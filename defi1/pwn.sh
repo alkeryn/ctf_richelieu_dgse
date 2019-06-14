@@ -1,4 +1,4 @@
- #!/bin/bash
+#!/usr/bin/env bash
 echo /bin/cat drapeau.txt >| date
 chmod +x date
 export PATH=$PWD
