@@ -47,6 +47,7 @@ matches = []
 for pair in pairs: #all the indexes and what to replace with
     ocur = re.finditer(pair[1],prime)
     for match in ocur:
+        if not(match.start() & 1):
             matches += [(match.start(),pair[0])]
 num=len(matches)
 max=pow(2,num)
